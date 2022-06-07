@@ -4,4 +4,4 @@ The R shiny app  in this project Sentiment analysis for marketing consists of th
 1) ML model prediction vs actual 
 2) Deep text analysis  
 3) Time frame vs Sentiment.
-![image](https://user-images.githubusercontent.com/49949721/172408881-14ea0322-298f-4c09-b998-3dc06a1f6228.png)
+<img width="1374" alt="Screenshot 2022-06-07 at 10 44 24 AM" src="https://user-images.githubusercontent.com/49949721/172409884-566db6c2-2d52-46fd-bfe5-e489bfaaa444.png">
